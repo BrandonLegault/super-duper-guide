@@ -5,7 +5,7 @@ interface Model
 	/**
 	 * Get data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return array
 	 */
@@ -14,7 +14,7 @@ interface Model
 	/**
 	 * Write data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */

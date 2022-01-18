@@ -20,7 +20,7 @@ class PlayerJSONController implements Controller
 	/**
 	 * Get playerJSON data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return string
 	 */
@@ -36,7 +36,7 @@ class PlayerJSONController implements Controller
 	/**
 	 * Add playerJSON.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */

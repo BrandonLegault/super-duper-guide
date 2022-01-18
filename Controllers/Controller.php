@@ -5,7 +5,7 @@ interface Controller
 	/**
 	 * Display data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return string
 	 */
@@ -14,7 +14,7 @@ interface Controller
 	/**
 	 * Write data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */

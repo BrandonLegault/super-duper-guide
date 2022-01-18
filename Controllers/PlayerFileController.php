@@ -20,7 +20,7 @@ class PlayerFileController implements Controller
 	/**
 	 * Get playerFile data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return string
 	 */
@@ -36,7 +36,7 @@ class PlayerFileController implements Controller
 	/**
 	 * Add playerFile.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */

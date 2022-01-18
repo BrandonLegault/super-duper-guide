@@ -20,7 +20,7 @@ class PlayerFile implements Model
 	/**
 	 * Get playerArray data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return array
 	 */
@@ -32,7 +32,7 @@ class PlayerFile implements Model
 	/**
 	 * Add playerArray.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */

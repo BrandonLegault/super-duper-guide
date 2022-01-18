@@ -45,7 +45,7 @@ class PlayerArray implements Model
 	/**
 	 * Get playerArray data.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return array
 	 */
@@ -57,7 +57,7 @@ class PlayerArray implements Model
 	/**
 	 * Add playerArray.
 	 * 
-	 * @param $args array of arguments.
+	 * @param array $args array of arguments.
 	 * 
 	 * @return void
 	 */
