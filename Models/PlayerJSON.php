@@ -57,13 +57,13 @@ class PlayerJSON implements Model
 
 	/**
 	 * Add player.
-     * 
+	 * 
 	 * @param $args array of arguments.
-     * 
+	 * 
 	 * @return void
-     */
-    public function write( array $args = [] ): void
-    {
+	 */
+	public function write( array $args = [] ): void
+	{
 		
-    }  
+	}  
 }

@@ -35,13 +35,13 @@ class PlayerJSONController implements Controller
 
 	/**
 	 * Add player.
-     * 
+	 * 
 	 * @param $args array of arguments.
-     * 
+	 * 
 	 * @return void
-     */
-    public function write( array $args = [] ): void
-    {
+	 */
+	public function write( array $args = [] ): void
+	{
 		
-    }  
+	}  
 }
