@@ -3,7 +3,7 @@
 class View
 {
     /**
-	 * Get the view class.
+	 * Get the View class.
 	 * 
 	 * @param array $data.
 	 * @param string $responseType.

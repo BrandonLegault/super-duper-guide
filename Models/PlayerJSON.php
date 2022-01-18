@@ -44,7 +44,7 @@ class PlayerJSON implements Model
 	}
 
 	/**
-	 * Get player data.
+	 * Get playerJSON data.
 	 * 
 	 * @param $args array of arguments.
 	 * 
@@ -56,7 +56,7 @@ class PlayerJSON implements Model
 	}
 
 	/**
-	 * Add player.
+	 * Add playerJSON.
 	 * 
 	 * @param $args array of arguments.
 	 * 

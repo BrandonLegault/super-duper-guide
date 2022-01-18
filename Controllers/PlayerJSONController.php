@@ -18,7 +18,7 @@ class PlayerJSONController implements Controller
 	}
 
 	/**
-	 * Get player data.
+	 * Get playerJSON data.
 	 * 
 	 * @param $args array of arguments.
 	 * 
@@ -34,7 +34,7 @@ class PlayerJSONController implements Controller
 	}
 
 	/**
-	 * Add player.
+	 * Add playerJSON.
 	 * 
 	 * @param $args array of arguments.
 	 * 

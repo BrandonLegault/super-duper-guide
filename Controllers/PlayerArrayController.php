@@ -18,7 +18,7 @@ class PlayerArrayController implements Controller
 	}
 
 	/**
-	 * Get player data.
+	 * Get playerArray data.
 	 * 
 	 * @param $args array of arguments.
 	 * 
@@ -34,7 +34,7 @@ class PlayerArrayController implements Controller
 	}
 
 	/**
-	 * Add player.
+	 * Add playerArray.
 	 * 
 	 * @param $args array of arguments.
 	 * 
